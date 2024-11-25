@@ -17,7 +17,8 @@ criaCartao(
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Biologia',
+    'Qual o gás respontavel pela maturação
+das plantas?',
+    'O etileno é um hormônio gasoso que atua principalmente no amadurecimento de frutos'
 )
